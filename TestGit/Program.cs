@@ -10,7 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-
+            // Information to welcome you to GIT
             Console.WriteLine("Hello GIT");
         }
     }
