@@ -12,6 +12,9 @@ namespace TestGit
         {
             // Information to welcome you to GIT
             Console.WriteLine("Hello GIT");
+            Test t = new Test("Palle");
+            Console.WriteLine(t);
+            Console.ReadLine();
         }
     }
 }
