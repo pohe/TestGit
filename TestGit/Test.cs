@@ -19,6 +19,7 @@ namespace TestGit
 
         public override string ToString()
         {
+            //return the name and the counter
             return Name + " no " + counter;
         }
     }
